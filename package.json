@@ -1,0 +1,10 @@
+{
+  "name": "taskrun",
+  "author": "RemRyahirev <remryahirev@gmail.com>",
+  "version": "0.0.1",
+  "scripts": {
+  },
+  "dependencies": {
+    "q": "~1.2.0"
+  }
+}
